@@ -1,5 +1,5 @@
 ### Mi nombre Pedro Esquerra 
-Format: ![image](https://r72.cooltext.com/d.php?renderid=377623325901890&extension=png)
+
 
 Proyectos:
 
