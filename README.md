@@ -1,16 +1,47 @@
-### Hi there 👋
+### Mi nombre Pedro Esquerra 
+Format: ![image](https://r72.cooltext.com/d.php?renderid=377623325901890&extension=png)
 
-<!--
-**pedroesquerra/pedroesquerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Proyectos:
 
-Here are some ideas to get you started:
+-G-store
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-aplicacion de Botón de pánico.
+
+
+Estudios:
+
+-Soy alumno de 8vo semestre del institución tecnologico de Tijuana 
+De la carrera de ingeniería en tecnologías de la información y comunicaciones.
+
+-Estudie la preparatoria en Conalep 1 Tijuana 👨🏽‍🎓📜.
+
+-Estudien en la secundaria Abelardo L. Rodríguez👨🏽‍🎓📜.
+
+
+Titulos:
+
+-Tecnico en mantenimiento de sistemas electrónicos💻📺.
+
+-Certificado en artes🎨🖼️.
+
+
+Pasatiempos:
+
+-Dibujar✏️✏️.
+
+-Fotografias📷🖼️.
+
+-Pintar 🎨🖌️.
+
+
+Intentario
+
+-arduino Bluetooth.
+
+-arduino.
+
+
+
+| TituTitulos | Certificados | Diplomas |
+|-------------|--------------|----------|
+| 1           | 2            | 13       |
